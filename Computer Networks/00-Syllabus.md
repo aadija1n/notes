@@ -19,4 +19,10 @@ int main(){
 | 1 | `#include<iostream>` |
 | 2 | 😀✅❌ |
 
->Select To reveal Answer : $${\color{black}\text{This is a full line of black text}}$$
+<details>
+  <summary>Click to reveal the answer</summary>
+
+  This is the hidden answer! You can use regular **Markdown** inside here, including [links](https://github.com), code blocks, or images.
+
+</details>
+
