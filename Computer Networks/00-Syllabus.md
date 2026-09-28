@@ -19,4 +19,4 @@ int main(){
 | 1 | `#include<iostream>` |
 | 2 | 😀✅❌ |
 
->Select To reveal Answer : "<span style="color:black">Hello</span>"
+>Select To reveal Answer : $${\color{black}\text{This is a full line of black text}}$$
