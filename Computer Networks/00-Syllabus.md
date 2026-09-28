@@ -19,4 +19,4 @@ int main(){
 | 1 | `#include<iostream>` |
 | 2 | 😀✅❌ |
 
->Select To reveal Answer : "<span style="color:transparent">Hello</span>"
+>Select To reveal Answer : "<span style="color:black">Hello</span>"
