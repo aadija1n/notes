@@ -1,6 +1,6 @@
-# <span style="color:#9eff4a">Computer Networks</span> - Syllabus
+# Computer Networks - Syllabus
 
-
+---
 
 **Chapter 01** - Introduction to Computer Networks
 
@@ -29,3 +29,5 @@
 **Chapter 13** - Modern Networking
 
 ---
+
+
