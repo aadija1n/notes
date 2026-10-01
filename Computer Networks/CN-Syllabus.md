@@ -1,7 +1,5 @@
 # Computer Networks - Syllabus
 
----
-
 **Chapter 01** - Introduction to Computer Networks
 
 **Chapter 02** - Network Models
